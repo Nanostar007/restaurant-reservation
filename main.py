@@ -160,7 +160,7 @@ def csv_export():
 
 # ---------- CLI ----------
 def menu():
-    print("\n--- lil caesars ---")
+    print("\n--- Restaurant ---")
     print("1) Add table")
     print("2) List tables")
     print("3) New reservation")
@@ -200,3 +200,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
