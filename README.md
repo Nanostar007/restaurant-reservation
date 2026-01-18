@@ -18,3 +18,5 @@ py restaurant.py
 - Reservations with time conflict check
 - Excel / CSV export
 - Persistent database
+
+<img width="815" height="370" alt="image" src="https://github.com/user-attachments/assets/f708c8b7-d892-45c8-b75e-141533168e66" />
